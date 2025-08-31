@@ -1,0 +1,17 @@
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\bin\Debug\proyectoEjecucion.exe.config
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\bin\Debug\proyectoEjecucion.exe
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\bin\Debug\proyectoEjecucion.pdb
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\bin\Debug\CapaVista.dll
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\bin\Debug\CapaVista.pdb
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\obj\Debug\proyectoEjecucion.csproj.AssemblyReference.cache
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\obj\Debug\proyectoEjecucion.Form1.resources
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\obj\Debug\proyectoEjecucion.Properties.Resources.resources
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\obj\Debug\proyectoEjecucion.csproj.GenerateResource.cache
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\obj\Debug\proyectoEjecucion.csproj.CoreCompileInputs.cache
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\obj\Debug\proyectoEjecucion.csproj.CopyComplete
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\obj\Debug\proyectoEjecucion.exe
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\obj\Debug\proyectoEjecucion.pdb
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\bin\Debug\CapaControlador.dll
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\bin\Debug\CapaModelo.dll
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\bin\Debug\CapaControlador.pdb
+C:\Users\arone\source\repos\proyectoEjecucion\proyectoEjecucion\bin\Debug\CapaModelo.pdb

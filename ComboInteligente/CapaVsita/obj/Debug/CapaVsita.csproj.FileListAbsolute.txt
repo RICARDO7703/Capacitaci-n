@@ -1,0 +1,13 @@
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\bin\Debug\CapaVsita.dll
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\bin\Debug\CapaVsita.pdb
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\obj\Debug\CapaVsita.csproj.AssemblyReference.cache
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\obj\Debug\CapaVsita.csproj.CoreCompileInputs.cache
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\obj\Debug\CapaVsita.dll
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\obj\Debug\CapaVsita.pdb
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\bin\Debug\CapaControlador.dll
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\bin\Debug\CapaControlador.pdb
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\obj\Debug\CapaVsita.csproj.CopyComplete
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\obj\Debug\CapaVsita.Combo.resources
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\obj\Debug\CapaVsita.csproj.GenerateResource.cache
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\bin\Debug\CapaModelo.dll
+C:\Users\arone\source\repos\ComboInteligente\CapaVsita\bin\Debug\CapaModelo.pdb

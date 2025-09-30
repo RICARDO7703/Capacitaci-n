@@ -1,0 +1,4 @@
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\modulos\prototipos\Ejecucion_Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\modulos\prototipos\Ejecucion_Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\modulos\prototipos\Ejecucion_Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\modulos\prototipos\Ejecucion_Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache

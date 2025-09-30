@@ -1,0 +1,14 @@
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\obj\Debug\CapaVista_Seguridad.csproj.AssemblyReference.cache
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\obj\Debug\CapaVista_Seguridad.Bodegas.resources
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\obj\Debug\CapaVista_Seguridad.frmBitacora.resources
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\obj\Debug\CapaVista_Seguridad.csproj.GenerateResource.cache
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\obj\Debug\CapaVista_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\bin\Debug\CapaVista_Seguridad.dll
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\bin\Debug\CapaVista_Seguridad.pdb
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\bin\Debug\CapaControlador_Seguridad.dll
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\bin\Debug\CapaModelo_Seguridad.dll
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\bin\Debug\CapaControlador_Seguridad.pdb
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\bin\Debug\CapaModelo_Seguridad.pdb
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\obj\Debug\CapaVista_Seguridad.csproj.CopyComplete
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\obj\Debug\CapaVista_Seguridad.dll
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaVista_Seguridad\obj\Debug\CapaVista_Seguridad.pdb

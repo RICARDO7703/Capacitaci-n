@@ -1,0 +1,2 @@
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\modulos\prototipos\Menu_general\CapaModelo_Menu\obj\Debug\CapaModelo_Menu.csproj.AssemblyReference.cache
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\modulos\prototipos\Menu_general\CapaModelo_Menu\obj\Debug\CapaModelo_Menu.csproj.CoreCompileInputs.cache

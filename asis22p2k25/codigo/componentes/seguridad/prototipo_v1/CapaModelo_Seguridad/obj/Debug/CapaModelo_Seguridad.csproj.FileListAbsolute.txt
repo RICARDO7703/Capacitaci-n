@@ -1,0 +1,6 @@
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaModelo_Seguridad\bin\Debug\CapaModelo_Seguridad.dll
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaModelo_Seguridad\bin\Debug\CapaModelo_Seguridad.pdb
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaModelo_Seguridad\obj\Debug\CapaModelo_Seguridad.csproj.AssemblyReference.cache
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaModelo_Seguridad\obj\Debug\CapaModelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaModelo_Seguridad\obj\Debug\CapaModelo_Seguridad.dll
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaModelo_Seguridad\obj\Debug\CapaModelo_Seguridad.pdb

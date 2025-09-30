@@ -1,0 +1,9 @@
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaControlador_Seguridad\obj\Debug\CapaControlador_Seguridad.csproj.AssemblyReference.cache
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaControlador_Seguridad\obj\Debug\CapaControlador_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaControlador_Seguridad\bin\Debug\CapaControlador_Seguridad.dll
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaControlador_Seguridad\bin\Debug\CapaControlador_Seguridad.pdb
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaControlador_Seguridad\bin\Debug\CapaModelo_Seguridad.dll
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaControlador_Seguridad\bin\Debug\CapaModelo_Seguridad.pdb
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaControlador_Seguridad\obj\Debug\CapaControlador_Seguridad.csproj.CopyComplete
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaControlador_Seguridad\obj\Debug\CapaControlador_Seguridad.dll
+C:\Users\arone\OneDrive\Escritorio\asis22p2k25\codigo\componentes\seguridad\prototipo_v1\CapaControlador_Seguridad\obj\Debug\CapaControlador_Seguridad.pdb
